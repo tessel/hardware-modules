@@ -1,0 +1,85 @@
+{
+  "tenpin":
+  [
+    {
+      "name": "accelerometer",
+      "package": "accel-mma84",
+      "chip": "MMA8452Q",
+      "datasheet": "http://www.freescale.com/files/sensors/doc/data_sheet/MMA8452Q.pdf",
+      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/accelerometer.jpg",
+      "shoplink": "https://shop.tessel.io/Modules/Accelerometer%20Module",
+      "description": "Detect orientation and movement of your Tessel by measuring gravity / acceleration. 3-axis digital accelerometer; 12-bit resolution; selectable ±2g/±4g/±8g scales",
+      "supported": "Tessel 1, Tessel 2"
+    },
+    {
+      "name": "ambient",
+      "package": "ambient-attx4",
+      "chip": "ATTX4",
+      "datasheet": "http://www.atmel.com/Images/doc8006.pdf",
+      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/amambient-attx4.jpg",
+      "shoplink": "https://shop.tessel.io/Modules/Ambient%20Module%20(Light%20and%20Sound)",
+      "description": "The Ambient sensor can detect ambient light and sound levels. Clap to turn on the TV (paired with infrared) or know from a webapp if the lights are on at home. The microphone is optimized for detecting the ambient noise level in a room or building a sound-activated device. The ambient light sensor and can be used for detecting fine-grain brightness in a room.",
+      "supported": "Tessel 1, Tessel 2"
+    },
+    {
+      "name": "audio",
+      "package": "audio-vs1053b",
+      "chip": "VS1053B",
+      "datasheet": "http://www.vlsi.fi/fileadmin/datasheets/vlsi/vs1053.pdf",
+      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/audio.jpg",
+      "shoplink": "https://shop.tessel.io/Modules/audio%20module",
+      "description": "Decode audio files or streams and output; record audio. Decodes MP3/AAC/WMA/MIDI/FLAC/Ogg Vorbis files; Supports files and streams; Supports both headphones and line-out; Can record audio through an on-board microphone or line-in jack",
+      "supported": "Tessel 1"
+    },
+    {
+      "name": "ble",
+      "package": "ble-ble113a",
+      "chip": "BLE113",
+      "datasheet": "http://www.mouser.com/ds/2/52/BLE113_Datasheet-224874.pdf",
+      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/ble.jpg",
+      "shoplink": "https://shop.tessel.io/Modules/Bluetooth%20Low%20Energy%20Module",
+      "description": "Allows your tesselation to work as a Bluetooth LE master or slave device. Connect to your phone, FitBit, or other low-powered device. Compatible with iOS 5+, Android 4.3+; Supports master mode to connect to other BLE devices and Tessels",
+      "supported": "Tessel 1"
+    },
+    {
+      "name": "camera",
+      "package": "camera-vc0706",
+      "chip": "VC0706",
+      "datasheet": "http://www.southernstars.com/skycube/files/VC0706.pdf",
+      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/camera.jpg",
+      "shoplink": "https://shop.tessel.io/Modules/camera module",
+      "description": "Add the sense of sight to Tessel! Take pictures of your projects, from your projects.",
+      "supported": "Tessel 1"
+    },
+    {
+      "name": "climate",
+      "package": "climate-s17020",
+      "chip": "SI7020",
+      "datasheet": "http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7020.pdf",
+      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/climate.jpg",
+      "shoplink": "https://shop.tessel.io/Modules/climate module",
+      "description": "Detect humidity and temperature from your environment. Measure 0 to 70 &deg;C (32 to 160 &deg;F) with &plusmn;1&deg; accuracy; Measure 0% to 80% relative humidity",
+      "supported": "Tessel 1, Tessel 2"
+    }
+  ],
+  "usb":
+  [
+    {
+      "name": "",
+      "package": "",
+      "image": "",
+      "shoplink": "",
+      "supported": "Tessel 2"
+    }
+  ],
+  "community":
+  [
+    {
+      "name": "",
+      "package": "",
+      "image": "",
+      "shoplink": "",
+      "supported": "Tessel 2"
+    }
+  ]
+}

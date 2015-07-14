@@ -7,17 +7,28 @@ A non-inclusive list of recommended third-party USB modules.
 
 **Camera**
 
-* [Creative Live! Cam Sync HD 720P Webcam](http://www.amazon.com/Creative-Live-Sync-720P-Webcam/dp/B0092QJRPC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1432676952&sr=1-1&keywords=webcam+sync+hd)
+* Creative Live! Cam Sync HD 720P Webcam (integrated microphone) &mdash; [Amazon Prime (~$17)](http://amzn.to/1HZKV8H)
 
-**BLE** 
+**Bluetooth + Low Energy** 
 
-**Cellular**
+* Plugable Bluetooth 4.0 USB Adapter &mdash; [Amazon Prime (~$12)](http://amzn.to/1Tz7yoa)
 
-**MicroSD**
+**Cellular Modem**
+
+* Huawei E303 3G GSM USB Modem &mdash; [Amazon Prime (~$21)](http://amzn.to/1HZLmQg)
 
 **Audio**
 
-## 10-pin
+* Sabrent Headphone and Microphone USB Adapter &mdash; [Amazon Prime (~$6)](http://amzn.to/1M7tLIL)
+* Kinobo "Akiro" Wired USB Microphone &mdash; [Amazon Prime (~$12)](http://amzn.to/1M7tOo3)
+* Kinobo "Makio" Mini USB Microphone &mdash; [Amazon Prime (~$6)](http://amzn.to/1HZbaOk)
+
+**Storage**
+
+* Kingston 16GB Flash Drive USB 2.0 &mdash; [Amazon Prime (~$8)](http://amzn.to/1IX8Bv6)
+* Kingston 4GB Micro SD Card with USB Reader &mdash; [Amazon Prime (~$8)](http://amzn.to/1HZLdML)
+
+## 10-Pin
 
 * Accelerometer
 * Ambient

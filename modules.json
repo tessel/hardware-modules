@@ -145,10 +145,63 @@
   "usb":
   [
     {
-      "name": "",
+      "name": "audiovideo",
+      "package": "audiovideo",
+      "buy":
+      [
+        "http://www.amazon.com/Creative-Live-Sync-720P-Webcam/dp/B0092QJRPC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1432676952&sr=1-1&keywords=webcam+sync+hd"
+      ],
+      "description": "Camera, webcam, video, audio, and still images all wrapped up and supported in one. Should work with any USB webcam and/or USB speakers.",
+      "supported": "Tessel 2"
+    },
+    {
+      "name": "ble",
+      "package": "noble",
+      "buy":
+      [
+        ""
+      ],
+      "description": "",
+      "supported": "Tessel 2"
+    },
+    {
+      "name": "3G",
       "package": "",
-      "image": "",
-      "buy": "",
+      "buy":
+      [
+        ""
+      ],
+      "description": "Use Tessel anywhere.",
+      "supported": "Tessel 2"
+    },
+    {
+      "name": "SD",
+      "package": "",
+      "buy":
+      [
+        ""
+      ],
+      "description": "",
+      "supported": "Tessel 2"
+    },
+    {
+      "name": "audio",
+      "package": "",
+      "buy":
+      [
+        ""
+      ],
+      "description": "",
+      "supported": "Tessel 2"
+    },
+    {
+      "name": "flash",
+      "package": "",
+      "buy":
+      [
+        ""
+      ],
+      "description": "Thumb drives for extra storage on Tessel.",
       "supported": "Tessel 2"
     }
   ],

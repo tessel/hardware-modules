@@ -197,11 +197,46 @@
   "usb":
   [
     {
-      "name": "audiovideo",
+      "name": "Audio",
       "package": "audiovideo",
       "buy":
       [
-        "http://www.amazon.com/Creative-Live-Sync-720P-Webcam/dp/B0092QJRPC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1432676952&sr=1-1&keywords=webcam+sync+hd"
+        {
+          "name": "Sabrent Headphone and Microphone USB Adapter",
+          "vendor": "Amazon Prime",
+          "link": "http://amzn.to/1M7tLIL",
+          "price": "$6"
+        },
+        {
+          "name": "Kinobo 'Akiro' Wired USB Microphone",
+          "vendor": "Amazon Prime",
+          "link": "http://amzn.to/1M7tOo3",
+          "price": "$12"
+        },
+        {
+          "name": "Kinobo 'Makio' Mini USB Microphone",
+          "vendor": "Amazon Prime",
+          "link": "http://amzn.to/1HZbaOk",
+          "price": "$6"
+        }
+      ],
+      "description": "Camera, webcam, video, audio, and still images all wrapped up and supported in one. Should work with any USB webcam and/or USB speakers.",
+      "supported":
+      [
+        "Tessel 2"
+      ]
+    },
+    {
+      "name": "Camera",
+      "package": "audiovideo",
+      "buy":
+      [
+        {
+          "name": "Creative Live! Cam Sync HD 720P Webcam (integrated microphone)",
+          "vendor": "Amazon Prime",
+          "link": "http://amzn.to/1HZKV8H",
+          "price": "$17"
+        }
       ],
       "description": "Camera, webcam, video, audio, and still images all wrapped up and supported in one. Should work with any USB webcam and/or USB speakers.",
       "supported":
@@ -214,7 +249,12 @@
       "package": "noble",
       "buy":
       [
-        ""
+        {
+          "name": "Plugable Bluetooth 4.0 USB Adapter",
+          "vendor": "Amazon Prime",
+          "link": "http://amzn.to/1Tz7yoa",
+          "price": "$12"
+        }
       ],
       "description": "",
       "supported":
@@ -227,7 +267,12 @@
       "package": "",
       "buy":
       [
-        ""
+        {
+          "name": "Huawei E303 3G GSM USB Modem",
+          "vendor": "Amazon Prime",
+          "link": "http://amzn.to/1HZLmQg",
+          "price": "21"
+        }
       ],
       "description": "Use Tessel anywhere.",
       "supported":
@@ -236,39 +281,24 @@
       ]
     },
     {
-      "name": "SD",
+      "name": "storage",
       "package": "",
       "buy":
       [
-        ""
+        {
+          "name": "Kingston 4GB Micro SD Card with USB Reader",
+          "vendor": "Amazon Prime",
+          "link": "http://amzn.to/1HZLdML",
+          "price": "$8"
+        },
+        {
+          "name": "Kingston 16GB Flash Drive USB 2.0",
+          "vendor": "Amazon Prime",
+          "link": "http://amzn.to/1IX8Bv6",
+          "price": "$8"
+        }
       ],
-      "description": "",
-      "supported":
-      [
-        "Tessel 2"
-      ]
-    },
-    {
-      "name": "audio",
-      "package": "",
-      "buy":
-      [
-        ""
-      ],
-      "description": "",
-      "supported":
-      [
-        "Tessel 2"
-      ]
-    },
-    {
-      "name": "flash",
-      "package": "",
-      "buy":
-      [
-        ""
-      ],
-      "description": "Thumb drives for extra storage on Tessel.",
+      "description": "Extra storage space on tessel, SD and Flash",
       "supported":
       [
         "Tessel 2"

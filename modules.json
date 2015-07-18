@@ -406,7 +406,7 @@
         "Tessel 1",
         "Tessel 2"
       ],
-      "project": "http://www.hackster.io/ifoundthemeaningoflife/tessel-button",
+      "project": "https://tessel.hackster.io/nmoadev/trellis-tessel",
       "description": "Adafruit's Trellis 4x4 backlit keypad. This module provides a simple interface to the HT16K33 RAM Mapped LED driver that is the heart of the Adafruit Trellis system. Straight-forward button/LED access with row-column coordinates; Button press and release events; Brightness and blink control",
       "author":
       {

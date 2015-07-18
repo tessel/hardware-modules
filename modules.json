@@ -43,13 +43,13 @@
       ]
     },
     {
-      "name": "ble",
+      "name": "bluetooth low energy",
       "package": "ble-ble113a",
       "chip": "BLE113",
       "datasheet": "http://www.mouser.com/ds/2/52/BLE113_Datasheet-224874.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/ble.jpg",
       "buy": "https://shop.tessel.io/Modules/Bluetooth%20Low%20Energy%20Module",
-      "description": "Allows your tesselation to work as a Bluetooth LE master or slave device. Connect to your phone, FitBit, or other low-powered device. Compatible with iOS 5+, Android 4.3+; Supports master mode to connect to other BLE devices and Tessels",
+      "description": "Allows your tesselation to work as a Bluetooth Low Energy (BLE) master or slave device. Connect to your phone, FitBit, or other low-powered device. Compatible with iOS 5+, Android 4.3+; Supports master mode to connect to other BLE devices and Tessels",
       "supported":
       [
         "Tessel 1"

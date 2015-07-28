@@ -625,6 +625,28 @@
       }
     },
     {
+      "name": "Text to speech Emic2",
+      "package": "emic2",
+      "image": "https://camo.githubusercontent.com/3acbbf57b84c7a2992f5684b84754ee7f7107a10/687474703a2f2f676f6f2e676c2f5653565a5373",
+      "buy":
+      [
+        "https://www.sparkfun.com/products/11711",
+        "https://www.adafruit.com/products/924"
+      ],
+      "supported":
+      [
+        "Tessel 1",
+        "Tessel 2"
+      ],
+      "project": "https://github.com/pirumpi/emic2",
+      "description": "Text to speech with a simple JS API.",
+      "author":
+      {
+        "name": "Carlos Martin",
+        "github": "pirumpi"
+      }
+    },
+    {
       "name": "thermal printer",
       "package": "tessel-thermalprinter",
       "image": "https://hackster.imgix.net/uploads/cover_image/file/49349/printer.jpg",

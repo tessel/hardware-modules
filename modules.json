@@ -245,7 +245,7 @@
       ]
     },
     {
-      "name": "ble",
+      "name": "Bluetooth Low Energy",
       "package": "noble",
       "buy":
       [

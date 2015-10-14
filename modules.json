@@ -666,6 +666,26 @@
         "name": "Zac Colley",
         "github": "zaccolley"
       }
+    },
+    {
+      "name": "thermocouple",
+      "package": "thermocouple-max31855",
+      "image": "https://camo.githubusercontent.com/9c570e495f00d761f646d751258a4f60e4fc8497/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d726f755437387045325f552f564b4730665f52463351492f41414141414141414c70512f425f734171574e4d6174452f773932362d683532312d6e6f2f32303134313232395f3131303633372e6a7067",
+      "buy":
+      [
+        "http://www.adafruit.com/products/269"
+      ],
+      "supported":
+      [
+        "Tessel 1"
+      ],
+      "project": "https://github.com/tessel/thermocouple-max31855",
+      "description": "A thermocouple for getting precise temperature, including immersed in liquids.",
+      "author":
+      {
+        "name": "Tim Ryan",
+        "github": "tcr"
+      }
     }
   ]
 }

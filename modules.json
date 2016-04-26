@@ -7,7 +7,7 @@
       "chip": "MMA8452Q",
       "datasheet": "http://www.freescale.com/files/sensors/doc/data_sheet/MMA8452Q.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/accelerometer.jpg",
-      "buy": "https://shop.tessel.io/Modules/Accelerometer%20Module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-Accelerometer-Module-p-2223.html",
       "description": "Detect orientation and movement of your Tessel by measuring gravity / acceleration. 3-axis digital accelerometer; 12-bit resolution; selectable ±2g/±4g/±8g scales",
       "supported":
       [
@@ -21,7 +21,7 @@
       "chip": "ATTX4",
       "datasheet": "http://www.atmel.com/Images/doc8006.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/amambient-attx4.jpg",
-      "buy": "https://shop.tessel.io/Modules/Ambient%20Module%20(Light%20and%20Sound)",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-Ambient-Module-p-2220.html",
       "description": "The Ambient sensor can detect ambient light and sound levels. Clap to turn on the TV (paired with infrared) or know from a webapp if the lights are on at home. The microphone is optimized for detecting the ambient noise level in a room or building a sound-activated device. The ambient light sensor and can be used for detecting fine-grain brightness in a room.",
       "supported":
       [
@@ -35,7 +35,7 @@
       "chip": "VS1053B",
       "datasheet": "http://www.vlsi.fi/fileadmin/datasheets/vlsi/vs1053.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/audio.jpg",
-      "buy": "https://shop.tessel.io/Modules/audio%20module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-Audio-Module-p-2232.html",
       "description": "Decode audio files or streams and output; record audio. Decodes MP3/AAC/WMA/MIDI/FLAC/Ogg Vorbis files; Supports files and streams; Supports both headphones and line-out; Can record audio through an on-board microphone or line-in jack",
       "supported":
       [
@@ -48,7 +48,7 @@
       "chip": "BLE113",
       "datasheet": "http://www.mouser.com/ds/2/52/BLE113_Datasheet-224874.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/ble.jpg",
-      "buy": "https://shop.tessel.io/Modules/Bluetooth%20Low%20Energy%20Module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-BLE-Module-p-2230.html",
       "description": "Allows your tesselation to work as a Bluetooth Low Energy (BLE) master or slave device. Connect to your phone, FitBit, or other low-powered device. Compatible with iOS 5+, Android 4.3+; Supports master mode to connect to other BLE devices and Tessels",
       "supported":
       [
@@ -61,7 +61,7 @@
       "chip": "VC0706",
       "datasheet": "http://www.southernstars.com/skycube/files/VC0706.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/camera.jpg",
-      "buy": "https://shop.tessel.io/Modules/camera module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-Camera-Module-p-2229.html",
       "description": "Add the sense of sight to Tessel! Take pictures of your projects, from your projects.",
       "supported":
       [
@@ -74,7 +74,7 @@
       "chip": "SI7020",
       "datasheet": "http://www.silabs.com/Support%20Documents/TechnicalDocs/Si7020.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/climate.jpg",
-      "buy": "https://shop.tessel.io/Modules/climate module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-Climate-Module-p-2225.html",
       "description": "Detect humidity and temperature from your environment. Measure 0 to 70 &deg;C (32 to 160 &deg;F) with &plusmn;1&deg; accuracy; Measure 0% to 80% relative humidity",
       "supported":
       [
@@ -88,7 +88,7 @@
       "chip": "DIY",
       "datasheet": "//tessel.io/diy",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/storefront/products/DIY-pack.jpg",
-      "buy": "https://shop.tessel.io/Modules/DIY%20Module%20Kit",
+      "buy": "coming soon",
       "description": "Build your own module! This single- or double-wide module comes with a guide on how to connect anything to Tessel. Protoboard module exposes SPI, I2C, UART, and GPIO; Ground and 3.3V rails make it easy to power components; For larger projects, available in a double-wide size (like the RFID module)",
       "supported":
       [
@@ -102,12 +102,11 @@
       "chip": "SIM900",
       "datasheet": "http://www.simcom.us/act_admin/supportfile/SIM900_HD_V1.01(091226).pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/gprs.jpg",
-      "buy": "https://shop.tessel.io/Modules/GPRS%2FSIM%20Module",
+      "buy": "deprecated",
       "description": "Connect your Tessel anywhere with GPRS/SIM card support for 2G internet! Make a call on the Tessel phone, or have your Tessel send you texts. Max downlink 85.6 kbps; Max uplink 42.8 kbps; Supports SIM cards at 1.8v and 3v",
       "supported":
       [
-        "Tessel 1",
-        "Tessel 2"
+        "Tessel 1"
       ]
     },
     {
@@ -116,7 +115,7 @@
       "chip": "FGPMMOPA6C",
       "datasheet": "http://www.adafruit.com/datasheets/GlobalTop-FGPMMOPA6C-Datasheet-V0A-Preliminary.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/gps.jpg",
-      "buy": "https://shop.tessel.io/Modules/GPS Module",
+      "buy": "coming soon",
       "description": "Detect your global position. Helps you figure out where you are - and where you're going. Up to 1.8m accuracy; 66 search channels; 22 tracking channels; -165dBM sensitivity; Max 10Hz update rate",
       "supported":
       [
@@ -130,7 +129,7 @@
       "chip": "ATTX4",
       "datasheet": "http://www.atmel.com/Images/doc8006.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/ir.jpg",
-      "buy": "https://shop.tessel.io/Modules/Infrared%20Module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-IR-Module-p-2224.html",
       "description": "The Infrared (IR) Module can send and detect IR signals. Use a Tessel as a remote for your TV, radio, or even another Tessel. Transmits and receives from 30+ feet (line of sight); Detects max 38kHz; <a href='http://www.vishay.com/docs/82491/tsop382.pdf'>IR Receiver</a>; <a href='http://catalog.osram-os.com/catalogue/catalogue.do;jsessionid=7667A78B5A2190F007E2E148FD64A417?act=downloadFile&favOid=0200000200003577000200b6'>IR LED</a>",
       "supported":
       [
@@ -144,7 +143,7 @@
       "chip": "SD Card standard",
       "datasheet": "http://www.circlemud.org/jelson/sdcard/SDCardStandardv1.9.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/microsd.jpg",
-      "buy": "https://shop.tessel.io/Modules/microsd module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-MicroSD-Module-p-2310.html",
       "description": "Reads high-density media from microSD cards. Store pictures or other data locally on your Tessel. Reads/writes microSD cards; Module ships with a 1GB MicroSD card",
       "supported":
       [
@@ -157,7 +156,7 @@
       "chip": "IM48DGR",
       "datasheet": "http://www.mouser.com/ds/2/418/ENG_SS_108-98001_S[1]-205061.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/relay.jpg",
-      "buy": "https://shop.tessel.io/Modules/relay module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-Relay-Module-p-2309.html",
       "description": "Control high-current devices, such as power cords and appliances. Rated for 240V and 5A; AC or DC current; Secure and remove wires with the help of a ballpoint pen. No more loose wires or screwdrivers.",
       "supported":
       [
@@ -171,7 +170,7 @@
       "chip": "PN532",
       "datasheet": "http://www.adafruit.com/datasheets/pn532ds.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/rfid.jpg",
-      "buy": "https://shop.tessel.io/Modules/RFID%20Module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-RFID-Module-p-2228.html",
       "description": "Read RFID cards/NFC. 13.56 MHx; Support CharlieCards, Clipper Cards, and other metro cards; Comes with a Mifare Classic RFID card",
       "supported":
       [
@@ -185,7 +184,7 @@
       "chip": "PCA9385",
       "datasheet": "http://www.circlemud.org/jelson/sdcard/SDCardStandardv1.9.pdf",
       "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/servo.jpg",
-      "buy": "https://shop.tessel.io/Modules/servo%20module",
+      "buy": "http://www.seeedstudio.com/depot/Tessel-Servo-Module-p-2311.html",
       "description": "Control up to 16 hobbyist/RC servos. Make it move! Control locks, wheels, cords, or anything else you can think of. Standard PWM output is compatible with servos of all sizes; Comes with an <a href='/datasheets/YinYanES3001.pdf'>ES3001 YinYan Servo</a> and a 5V external power jack (US-style plug)",
       "supported":
       [

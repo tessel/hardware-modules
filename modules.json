@@ -30,45 +30,6 @@
       ]
     },
     {
-      "name": "audio",
-      "package": "audio-vs1053b",
-      "chip": "VS1053B",
-      "datasheet": "http://www.vlsi.fi/fileadmin/datasheets/vlsi/vs1053.pdf",
-      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/audio.jpg",
-      "buy": "http://www.seeedstudio.com/depot/Tessel-Audio-Module-p-2232.html",
-      "description": "Decode audio files or streams and output; record audio. Decodes MP3/AAC/WMA/MIDI/FLAC/Ogg Vorbis files; Supports files and streams; Supports both headphones and line-out; Can record audio through an on-board microphone or line-in jack",
-      "supported":
-      [
-        "Tessel 1"
-      ]
-    },
-    {
-      "name": "bluetooth low energy",
-      "package": "ble-ble113a",
-      "chip": "BLE113",
-      "datasheet": "http://www.mouser.com/ds/2/52/BLE113_Datasheet-224874.pdf",
-      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/ble.jpg",
-      "buy": "http://www.seeedstudio.com/depot/Tessel-BLE-Module-p-2230.html",
-      "description": "Allows your tesselation to work as a Bluetooth Low Energy (BLE) master or slave device. Connect to your phone, FitBit, or other low-powered device. Compatible with iOS 5+, Android 4.3+; Supports master mode to connect to other BLE devices and Tessels",
-      "supported":
-      [
-        "Tessel 1"
-      ]
-    },
-    {
-      "name": "camera",
-      "package": "camera-vc0706",
-      "chip": "VC0706",
-      "datasheet": "http://www.southernstars.com/skycube/files/VC0706.pdf",
-      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/camera.jpg",
-      "buy": "http://www.seeedstudio.com/depot/Tessel-Camera-Module-p-2229.html",
-      "description": "Add the sense of sight to Tessel! Take pictures of your projects, from your projects.",
-      "supported":
-      [
-        "Tessel 1"
-      ]
-    },
-    {
       "name": "climate",
       "package": "climate-s17020",
       "chip": "SI7020",
@@ -97,19 +58,6 @@
       ]
     },
     {
-      "name": "gprs",
-      "package": "gprs-sim900",
-      "chip": "SIM900",
-      "datasheet": "http://www.simcom.us/act_admin/supportfile/SIM900_HD_V1.01(091226).pdf",
-      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/gprs.jpg",
-      "buy": "deprecated",
-      "description": "Connect your Tessel anywhere with GPRS/SIM card support for 2G internet! Make a call on the Tessel phone, or have your Tessel send you texts. Max downlink 85.6 kbps; Max uplink 42.8 kbps; Supports SIM cards at 1.8v and 3v",
-      "supported":
-      [
-        "Tessel 1"
-      ]
-    },
-    {
       "name": "gps",
       "package": "gps-a2235h",
       "chip": "FGPMMOPA6C",
@@ -135,19 +83,6 @@
       [
         "Tessel 1",
         "Tessel 2"
-      ]
-    },
-    {
-      "name": "microsd",
-      "package": "sdcard",
-      "chip": "SD Card standard",
-      "datasheet": "http://www.circlemud.org/jelson/sdcard/SDCardStandardv1.9.pdf",
-      "image": "https://s3.amazonaws.com/technicalmachine-assets/product+pics/2014+05+15+production+modules/microsd.jpg",
-      "buy": "http://www.seeedstudio.com/depot/Tessel-MicroSD-Module-p-2310.html",
-      "description": "Reads high-density media from microSD cards. Store pictures or other data locally on your Tessel. Reads/writes microSD cards; Module ships with a 1GB MicroSD card",
-      "supported":
-      [
-        "Tessel 1"
       ]
     },
     {

@@ -172,7 +172,7 @@
           "price": "$17"
         }
       ],
-      "description": "Camera, webcam, video, audio, and still images all wrapped up and supported in one. Should work with any USB webcam and/or USB speakers.",
+      "description": "Camera, webcam, video, audio, and still images all wrapped up and supported in one. Should be <a title='Linux UVC driver and tools' href='http://www.ideasonboard.org/uvc/'>UVC-compatible</a>, and is intended to work with any USB webcam and/or USB speakers.",
       "supported":
       [
         "Tessel 2"

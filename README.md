@@ -1,3 +1,5 @@
+**DEPRECATED. This repo is no longer the canonical source of information about modules. Up to date information can be found at [tessel/tessel.io/modules.json](https://github.com/tessel/tessel.io/blob/master/modules.json).**
+
 # hardware-modules
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/tessel/project/blob/master/CONDUCT.md)
 
